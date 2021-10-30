@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋;Myself Jerin Jacob.I am a civil engineering student and i like to explore programming world also...
 
 <!--
 **jerinja/jerinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
