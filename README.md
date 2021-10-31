@@ -33,7 +33,7 @@ Softwares
 <img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/android-os.png"/><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/>
 
 Social media
-![Twitter Follow](https://img.shields.io/twitter/follow/@JerinJa33556023color=1DA1F2&logo=twitter&style=for-the-badge)
+
 
 My website:https://jerinjacobcoonect.000webhostapp.com
 
