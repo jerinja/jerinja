@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 My website:https://jerinjacobcoonect.000webhostapp.com
-<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+<img src="https://img.icons8.com/nolan/64/github.png"/>
