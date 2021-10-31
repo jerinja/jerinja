@@ -1,8 +1,8 @@
 ### 
 
-Hello , I am Jerin Jacob
+<h4>Hello , I am Jerin Jacob
 
-I am a civil engineering student
+I am a civil engineering student<h4>
 
 I am pursuing my B.Tech degree in civil engineering at SJCET Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects
 <!--
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerinja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Programming Languages
+<h3>Programming Languages>/h3>
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 
-Softwares
+<h3>Softwares</h3>
 
 <img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/android-os.png"/><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/>
 
