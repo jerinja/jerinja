@@ -1,8 +1,7 @@
 ### 
+Hello , I am Jerin Jacob
 
-<h4>Hello , I am Jerin Jacob
-
-I am a civil engineering student<h4>
+I am a civil engineering student
 
 I am pursuing my B.Tech degree in civil engineering at SJCET Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects
 <!--
