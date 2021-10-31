@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 
 My website:https://jerinjacobcoonect.000webhostapp.com
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JerinJacob0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
