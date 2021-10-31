@@ -20,4 +20,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerinja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+Hello , I am Jerin Jacob
+
+I am a civil engineering student
+
+I am pursuing my B.Tech degree in civil engineering at SJCET Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects
+
+
 My website:https://jerinjacobcoonect.000webhostapp.com
