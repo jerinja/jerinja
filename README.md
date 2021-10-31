@@ -33,12 +33,5 @@ Here are some ideas to get you started:
 
 <h3>Social media</h3>
 
-<a
-            href="https://www.linkedin.com/in/jerin-jacob-7418571bb/"
-            class="linkedin"
-            ><i class="fa fa-linkedin"></i
-          ></a>
-
-
 My website:https://jerinjacobcoonect.000webhostapp.com
 
