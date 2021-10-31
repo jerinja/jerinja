@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3>Programming Languages</h3>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 
 <h3>Softwares</h3>
 
