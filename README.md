@@ -28,5 +28,9 @@ Programming Languages
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 
+Softwares
+
+<img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/>
+
 My website:https://jerinjacobcoonect.000webhostapp.com
 
