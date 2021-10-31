@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerinja&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerinja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 
-<img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png"/>
 My website:https://jerinjacobcoonect.000webhostapp.com
 
