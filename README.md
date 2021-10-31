@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3>Softwares</h3>
 
-<img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/android-os.png"/><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/>
 
 <h3>Social media</h3>
 
