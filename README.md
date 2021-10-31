@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JerinJacob&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JerinJacob&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerinja&theme=tokyonight)
 
