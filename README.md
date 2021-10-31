@@ -30,7 +30,7 @@ Programming Languages
 
 Softwares
 
-<img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/color/48/000000/android-os.png"/><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
 
 My website:https://jerinjacobcoonect.000webhostapp.com
 
