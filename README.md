@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerinja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png"/>
 My website:https://jerinjacobcoonect.000webhostapp.com
-<img src="https://img.icons8.com/nolan/64/github.png"/>
+
