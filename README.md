@@ -12,7 +12,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerinja&show_icons=true&locale=en" alt="jerinja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerinja&" alt="jerinja" /></p>
-<h3>softwares</h3>
+<h3>Softwares</h3>
+<img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/><img src="https://img.icons8.com/color/48/000000/arduino.png"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jerin-jacob-7418571bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerin-jacob-7418571bb/" height="30" width="40" /></a>
