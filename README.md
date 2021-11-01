@@ -1,10 +1,10 @@
 ### 
 <h1 align="center">Hi 👋, I'm Jerin Jacob</h1>
-<h3 align="center">I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at SJCET Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects</h3>
+<h3 align="center">I am a civil engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinja&label=Profile%20views&color=0e75b6&style=flat" alt="jerinja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerinja" alt="jerinja" /></a> </p>
+- 📫 How to reach me **jerinjacob0481@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
