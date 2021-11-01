@@ -37,17 +37,6 @@ Here are some ideas to get you started:
 <h3>Social media</h3>
 
 My website:https://jerinjacobcoonect.000webhostapp.com
-<a href="https://www.instagram.com/_jerinjac0b_/" class="instagram"
-            ><i class="fa fa-instagram"></i
-          ></a>
-          <a
-            href="https://www.linkedin.com/in/jerin-jacob-7418571bb/"
-            class="linkedin"
-            ><i class="fa fa-linkedin"></i
-          ></a>
-          <a href="https://github.com/jerinja" class="github"
-            ><i class="fa fa-github"></i
-          ></a>
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JerinJacob&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
