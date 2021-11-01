@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi 👋, I'm Jerin Jacob</h1>
-<h2 align="center">I am a civil engineering student</h2>
+<h4 align="center">I am a civil engineering student</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinja&label=Profile%20views&color=0e75b6&style=flat" alt="jerinja" /> </p>
 
