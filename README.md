@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi 👋, I'm Jerin Jacob</h1>
-<h4 align="center">I am a civil engineering student</h4>
+<h4 align="center">I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at SJCET Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinja&label=Profile%20views&color=0e75b6&style=flat" alt="jerinja" /> </p>
 
