@@ -1,44 +1,23 @@
 ### 
-<h3>Hello , I am Jerin Jacob</h3>
+<h1 align="center">Hi 👋, I'm Jerin Jacob</h1>
+<h3 align="center">I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at SJCET Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects</h3>
 
-I am a civil engineering student
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinja&label=Profile%20views&color=0e75b6&style=flat" alt="jerinja" /> </p>
 
-I am pursuing my B.Tech degree in civil engineering at SJCET Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerinja" alt="jerinja" /></a> </p>
 
-![](https://komarev.com/ghpvc/?username=JerinJacob&color=dc143c)
-<!--
-**jerinja/jerinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jerin-jacob-7418571bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerin-jacob-7418571bb/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_jerinjac0b_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_jerinjac0b_/" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning civil engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JerinJacob&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerinja&show_icons=true&locale=en&layout=compact" alt="jerinja" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerinja&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerinja&show_icons=true&locale=en" alt="jerinja" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerinja&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3>Programming Languages</h3>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/python--v2.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-
-<h3>Softwares</h3>
-
-<img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/>
-
-<h3>Social media</h3>
-
-My website:https://jerinjacobcoonect.000webhostapp.com
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JerinJacob&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerinja&" alt="jerinja" /></p>
 
