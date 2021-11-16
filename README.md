@@ -24,4 +24,5 @@
 </p>
 My website:https://jerinjacobcoonect.000webhostapp.com/
    <div class="findiptitle">Your Information</div><div id="findipwidget"></div><div class="findiplink" id="findipurl"><a href="http://www.find-ip.net/" target="_blank">Find-IP.net</a>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerinjacob&show_icons=true&theme=radical)
  
