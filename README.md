@@ -16,7 +16,7 @@
 <h3>Softwares</h3>
 <img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/><img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/><img src="https://img.icons8.com/color/48/000000/arduino.png"/><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <h3>Intrested in</h3>
-<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-cyber-security-cryptocurrency-justicon-lineal-color-justicon.png"/><a href="https://icons8.com/icon/ElxWN6jCeNMQ/hacker">
+<img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-hacker-information-security-inipagistudio-mixed-inipagistudio.png"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jerin-jacob-7418571bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerin-jacob-7418571bb/" height="30" width="40" /></a>
