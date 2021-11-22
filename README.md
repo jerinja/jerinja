@@ -73,7 +73,8 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=jerinja&&style=flat-square)  
+![](https://komarev.com/ghpvc/?username=jerinja&color=blueviolet)
+
   
 
 <br/>  
