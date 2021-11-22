@@ -32,7 +32,10 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently a civil engineering student  
+- 🔭 I’m currently a civil engineering student 
+  - skills in cyber security,Ethical hacking,Web developing and Arduino Projects
+
+
 
 
 </td><td valign="top" width="50%">
