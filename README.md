@@ -82,4 +82,4 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
