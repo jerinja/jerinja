@@ -47,33 +47,6 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 </div>  
 
 <br/>  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jerinja&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerinja&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![](https://komarev.com/ghpvc/?username=jerinja&color=blueviolet)
-
-  
-
-<br/>  
-
-
-<br />
-
-----
 
