@@ -29,10 +29,10 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerinja&theme=github-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jerinja&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-></table>  
 
 <br/>  
 
