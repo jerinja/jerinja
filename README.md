@@ -1,6 +1,6 @@
 
 ## Hey 👋, I'm Jerin Jacob!  
-  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=civil+engineering+student;Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 <a href="https://github.com/jerinja" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
