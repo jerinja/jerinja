@@ -47,6 +47,6 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 </div>  
 
 <br/>  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerinja&theme=github-dark)](https://git.io/streak-stats)
 
 
