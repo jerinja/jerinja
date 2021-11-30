@@ -42,6 +42,6 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 <h3>Softwares</h3>
 <img src="https://img.icons8.com/fluency/50/000000/windows-11.png"/>    <img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>     <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
 
-https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife
+Website:https://jerinjacob.tk
 
 
