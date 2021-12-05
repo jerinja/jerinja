@@ -25,7 +25,7 @@
 I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at St.Josephs college of engineering and technology Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects.I've been exploring various realms of technology since my young years, and these are some of the technical the skills I've acquired along the way.
 <br/>  
 
-<h5>🔥 Streak Stats</h5>
+<h3>🔥 Streak Stats</h3>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerinja&theme=github-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
