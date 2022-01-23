@@ -22,7 +22,7 @@
 
 
 ### Glad to see you here!  
-I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at St.Josephs college of engineering and technology Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Ethical hacking,Web developing and Arduino Projects.I've been exploring various realms of technology since my young years, and these are some of the technical the skills I've acquired along the way.
+I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at St.Josephs college of engineering and technology Palai..I am a tech enthusiast aspiring to learn a lot in the field of civil engineering.Also i had basic skills in cyber security,Web developing and Arduino Projects.I've been exploring various realms of technology since my young years, and these are some of the technical the skills I've acquired along the way.
 <br/>  
 
 <h3>🔥 Streak Stats</h3>
