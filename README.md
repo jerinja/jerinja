@@ -44,5 +44,5 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 
 Website:[click here](https://jerinjacob.tk)
 
-Email:[click here](jerinjacob0481@gmail.com)
+Email:jerinjacob0481@gmail.com
 
