@@ -33,7 +33,7 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 
 
 <br/>  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerinja&show_icons=true&theme=radical)
 
 <h3>Languages and Tools</h3>
 
