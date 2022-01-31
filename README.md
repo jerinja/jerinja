@@ -8,9 +8,6 @@
 <a href="https://twitter.com/@JerinJa33556023" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/Jerin Jacob" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in//jerin-jacob-7418571bb/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -30,10 +27,10 @@ I am a civil engineering student I am pursuing my B.Tech degree in civil enginee
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerinja&theme=github-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerinja&show_icons=true&theme=radical)
 
 <br/>  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerinja&show_icons=true&theme=radical)
+
 
 <h3>Languages and Tools</h3>
 
