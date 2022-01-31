@@ -19,7 +19,7 @@
 
 
 ### Glad to see you here!  
-I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at St.Josephs college of engineering and technology Palai..I am a tech enthusiast aspiring to learn a lot.I've been interested in technology since I was a youngster, and I've learned the fundamentals of cyber security, web development, and Arduino projects.
+Myself Jerin Jacob,I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at St.Josephs college of engineering and technology Palai..I am a tech enthusiast aspiring to learn a lot.I've been interested in technology since I was a youngster, and I've learned the fundamentals of cyber security, web development, and Arduino projects.
 <br/>  
 
 <h3>🔥 Streak Stats</h3>
