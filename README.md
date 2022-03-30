@@ -1,45 +1,26 @@
+<h1 align="center">Hi 👋, I'm Jerin Jacob</h1>
+<h3 align="center">civil enginnering student</h3>
 
-## Hey 👋, I'm Jerin Jacob!  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=civil+engineering+student;Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinja&label=Profile%20views&color=0e75b6&style=flat" alt="jerinja" /> </p>
 
-<a href="https://github.com/jerinja" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@JerinJa33556023" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in//jerin-jacob-7418571bb/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_jerinjac0b_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+- 🌱 I’m currently learning **web development,cybersecurity**
 
+- 👨‍💻 All of my projects are available at [jerinjacob.me](jerinjacob.me)
 
+- 📫 How to reach me **jerinjacob0481@gmail.com**
 
-### Glad to see you here!  
-Myself Jerin Jacob,I am a civil engineering student I am pursuing my B.Tech degree in civil engineering at St.Josephs college of engineering and technology Palai..I am a tech enthusiast aspiring to learn a lot.I've been interested in technology since I was a youngster, and I've learned the fundamentals of cyber security, web development, and Arduino projects.
-<br/>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jerin-jacob-7418571bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerin-jacob-7418571bb/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/jerin.jacob.165033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jerin.jacob.165033" height="30" width="40" /></a>
+<a href="https://instagram.com/_jerinjac0b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jerinjac0b" height="30" width="40" /></a>
+</p>
 
-<h3>🔥 Streak Stats</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerinja&show_icons=true&locale=en&layout=compact" alt="jerinja" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerinja&theme=github-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerinja&show_icons=true&locale=en" alt="jerinja" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerinja&show_icons=true&theme=radical)
-
-<br/>  
-
-
-<h3>Languages and Tools</h3>
-
-<img src="https://img.icons8.com/color/50/000000/html-5.png"/><img src="https://img.icons8.com/color/50/000000/css3.png"/><img src="https://img.icons8.com/color/50/000000/javascript.png"/>
-
-<h3>Softwares</h3>
-<img src="https://img.icons8.com/fluency/50/000000/windows-11.png"/>    <img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>     <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
-
-connect me:[click here](https://jerinjacob.tk)
-
-Email:jerinjacob0481@gmail.com
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerinja&" alt="jerinja" /></p>
