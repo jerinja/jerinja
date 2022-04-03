@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jerin Jacob</h1>
 <h3 align="center">civil enginnering student</h3>
 
+![hello-terminal-cursor](https://user-images.githubusercontent.com/82531317/161431178-bcc109e1-5d5f-47b1-b777-422654f6b08d.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinja&label=Profile%20views&color=0e75b6&style=flat" alt="jerinja" /> </p>
 
 - 🌱 I’m currently learning **web development,cybersecurity**
@@ -9,7 +12,9 @@
 
 - 📫 How to reach me **jerinjacob0481@gmail.com**
 - 
-![7v54](https://user-images.githubusercontent.com/82531317/161412512-92f69961-bce7-4ff9-9614-112d7b9339c3.gif)
+
+
+![Htop-Linux-Process-Monitoring](https://user-images.githubusercontent.com/82531317/161431234-5a5e14f6-14ba-4408-9ee4-27d35e71d1f3.gif)
 
 
 
