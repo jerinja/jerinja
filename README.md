@@ -11,10 +11,7 @@
 - 👨‍💻 All of my projects are available at [jerinjacob.me](jerinjacob.me)
 
 - 📫 How to reach me **jerinjacob0481@gmail.com**
-- 
 
-
-![Htop-Linux-Process-Monitoring](https://user-images.githubusercontent.com/82531317/161431234-5a5e14f6-14ba-4408-9ee4-27d35e71d1f3.gif)
 
 
 
