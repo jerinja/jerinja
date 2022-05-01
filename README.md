@@ -9,7 +9,7 @@ It's Me Jerin Jacob,I am a civil engineering student I am pursuing my B.Tech deg
 * 🌍  I'm based in kottayam,kerala
 * 🖥️  See my portfolio at [jerinjacob.me](http://jerinjacob.me)
 * ✉️  You can contact me at [jerinjacob0481@gmail.com](mailto:jerinjacob0481@gmail.com)
-* 🧠  I'm learning cybersecurity
+* 🧠  I'm learning cybersecurity,web development
 
 <a href="https://www.github.com/jerinja" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jerinja?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
